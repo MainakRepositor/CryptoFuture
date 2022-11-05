@@ -1,0 +1,6 @@
+streamlit==0.82.0
+pystan==2.19.1.1
+plotly==4.14.3
+fbprophet==0.7.1
+yfinance==0.1.59
+cryptocmd==0.6.0
